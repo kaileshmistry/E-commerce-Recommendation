@@ -1,4 +1,3 @@
-#Student ID: C1632338
 #Program works as intended.
 import math
 import random
